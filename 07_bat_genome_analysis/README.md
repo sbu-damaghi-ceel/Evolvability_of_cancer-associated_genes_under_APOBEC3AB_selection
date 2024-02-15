@@ -23,3 +23,6 @@ python3 extract_values_refseq_TC_palecto.py
 
 ## Draw Figure 3a
 One can use R script `draw_cdur_plot_refseq_palecto.r` to generate CDUR plot **Figure 3a** in the manuscript.
+
+## Related Supplementary figures
+**Figure S9** was drawn using the same R script.

@@ -17,3 +17,6 @@ We used [ShinyGO 0.77](http://bioinformatics.sdstate.edu/go/) for gene enrichmen
 
 ## Draw Figure 1b and 1c
 One can use R script `gene_enrichment_figures.R` to draw **Figure 1b** and **1c**. Gene enrichment analysis results in supplementary figures were directly downloaded from ShinyGO result page.
+
+## Related Supplementary figures
+Similar method was applied to generate Figure S3-7.
